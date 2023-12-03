@@ -18,7 +18,8 @@ The application is structured to easily add new media types or features.
 3. Web browser for media previews
    
 ## Installation
-No specific installation steps required other than cloning the repository. Ensure Python 3.x is installed on your system.
+No specific installation steps are required other than cloning the repository. 
+For cloning use - git clone https://github.com/swarba015/ITune_API/tree/main
 
 ## Usage
 1. Start the Application: Run the script in a Python environment.
