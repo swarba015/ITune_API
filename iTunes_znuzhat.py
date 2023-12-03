@@ -1,7 +1,4 @@
-#########################################
-##### Name:   Nuzhat Zahan                      #####
-##### Uniqname:   znuzhat                  #####
-#########################################
+
 
 import json
 import requests
